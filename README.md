@@ -27,7 +27,27 @@ You can click the Preview link to take a look at your changes.
 
 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=moe-shahnaei&theme=tokyonight&hide_border=true" 
+    alt="Moe Shahnaei GitHub Streak" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-stats-alpha.vercel.app/api?username=moe-shahnaei&cc=000&tc=6aff00&ic=fff&bc=fff" 
+    alt="Moe Shahnaei GitHub Statistics" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-stats-alpha.vercel.app/api/top-langs?username=moe-shahnaei&cc=000&tc=6aff00&ic=fff&bc=fff" 
+    alt="Moe Shahnaei Programming Languages" 
+  />
+</p>
 
 🔗 Socials:
 

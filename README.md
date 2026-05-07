@@ -37,10 +37,9 @@ You can click the Preview link to take a look at your changes.
 
 🔗 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moe--shahnaei.github.io-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moe-shahnaei.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-moe--shahnaei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moe-shahnaei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moe%20Shahnaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohshah2/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.shahnaei@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammad_Shahna)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/userial)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Moe_Shahnaei/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moe-shahnaei.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moe-shahnaei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohshah2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.shahnaei@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammad_Shahna)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Moe_Shahnaei/)

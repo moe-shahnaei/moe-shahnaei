@@ -3,7 +3,9 @@ ML/AI enthusiast...
 MSH-trojan/MSH-trojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🛠️ Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 ### Programming & Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,16 +26,17 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=moe-shahnaei&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true) <br>
 ![Moe Shahnaei GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=chartreuse-dark&hide_border=false) <br>
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-shahnaei&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
-
-🔗 Socials:
+## 🔗 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moe-shahnaei.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moe-shahnaei)

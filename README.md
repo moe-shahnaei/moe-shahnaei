@@ -25,18 +25,12 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Moe Shahnaei GitHub Stats" 
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Moe Shahnaei GitHub Stats" />
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>

@@ -27,13 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Moe Shahnaei GitHub Stats" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 🔗 Socials:
 

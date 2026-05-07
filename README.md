@@ -28,24 +28,14 @@ You can click the Preview link to take a look at your changes.
 📊 GitHub Stats
 
 
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=moe-shahnaei&theme=tokyonight&hide_border=true" 
-    alt="Moe Shahnaei GitHub Streak" 
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-stats-alpha.vercel.app/api?username=moe-shahnaei&cc=000&tc=6aff00&ic=fff&bc=fff" 
-    alt="Moe Shahnaei GitHub Statistics" 
-  />
-</p>
 
 
+
+![Moe Shahnaei GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=chartreuse-dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=moe-shahnaei&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-shahnaei&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=moe-shahnaei&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+
 
 🔗 Socials:
 

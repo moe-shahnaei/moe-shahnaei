@@ -23,3 +23,10 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true)

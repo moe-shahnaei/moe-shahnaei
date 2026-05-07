@@ -31,8 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Moe Shahnaei GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=chartreuse-dark&hide_border=false)
+
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=moe-shahnaei&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+![Moe Shahnaei GitHub Streak](https://streak-stats.demolab.com?user=moe-shahnaei&theme=chartreuse-dark&hide_border=false)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-shahnaei&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 

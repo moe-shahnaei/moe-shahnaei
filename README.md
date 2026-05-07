@@ -3,7 +3,7 @@ ML/AI enthusiast...
 MSH-trojan/MSH-trojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 ### Programming & Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,8 +25,18 @@ You can click the Preview link to take a look at your changes.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=moe-shahnaei&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    alt="Moe Shahnaei GitHub Stats" 
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-shahnaei&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
+</p>

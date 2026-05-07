@@ -42,12 +42,10 @@ You can click the Preview link to take a look at your changes.
   />
 </p>
 
-<p align="left">
-  <img 
-    src="https://github-stats-alpha.vercel.app/api/top-langs?username=moe-shahnaei&cc=000&tc=6aff00&ic=fff&bc=fff" 
-    alt="Moe Shahnaei Programming Languages" 
-  />
-</p>
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-shahnaei&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=moe-shahnaei&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
 🔗 Socials:
 
